@@ -10,15 +10,6 @@
       "id": 1
     },
     {
-      "productName": "Apple",
-      "category": "Fruits",
-      "freshness": "Brand New",
-      "price": 500,
-      "comment": "I want an apple pie",
-      "date": "2023-05-10T03:00:00.000Z",
-      "id": 2
-    },
-    {
       "productName": "Tomato",
       "category": "Fruits",
       "freshness": "Brand New",
@@ -44,6 +35,15 @@
       "comment": "yummy",
       "date": "2023-05-14T03:00:00.000Z",
       "id": 5
+    },
+    {
+      "productName": "Blueberry",
+      "category": "Fruits",
+      "freshness": "Pure fresh",
+      "price": 777,
+      "comment": "Perfect for a summer day~ (っ˘ڡ˘ς)",
+      "date": "2023-05-14T03:00:00.000Z",
+      "id": 6
     }
   ],
   "comments": [
