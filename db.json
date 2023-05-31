@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "Kiwi",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 888,
+      "comment": "Kiwi tarts are pretty yummy",
+      "date": "2023-05-10T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 500,
+      "comment": "I want an apple pie",
+      "date": "2023-05-10T03:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Tomato",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 700,
+      "comment": "Tomatos are actually a fruit owo",
+      "date": "2023-05-04T03:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Cherry tomato",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 800,
+      "comment": "Bueno para brochetas. Muy rico",
+      "date": "2023-05-10T03:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Raspberry",
+      "category": "Fruits",
+      "freshness": "Medium freshness",
+      "price": 800,
+      "comment": "yummy",
+      "date": "2023-05-14T03:00:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
